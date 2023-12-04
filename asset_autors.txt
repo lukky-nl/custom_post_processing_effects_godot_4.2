@@ -1,0 +1,14 @@
+demo assets
+
+tilemap : https://bakudas.itch.io/generic-dungeon-pack
+3d scene : https://sketchfab.com/3d-models/peirene-fountain-corinth-greece-0e27dbeb0aec4ed9a5a4e56a7d1c1e94
+3d character : https://www.mixamo.com/#/
+
+shaders
+
+crt effect (Adjusted) : https://godotshaders.com/shader/crt-shader-2/
+cromatic abberation (Adjusted) : https://godotshaders.com/shader/chromatic-abberation/ 
+Kuwahara : https://godotshaders.com/shader/kuwahara-shader/
+edge detection (Adjusted) : https://godotshaders.com/shader/normal-based-edge-detection-with-sobel-operator-screenspace/
+fish eye lens (Adjusted) : https://gist.github.com/aggregate1166877/a889083801d67917c26c12a98e7f57a7
+all other shaders done by : https://youtube.com/@lukky.?si=Tm7vYCFjzJmNFMCx

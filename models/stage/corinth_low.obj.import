@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://1yvol1ph2461"
+path="res://.godot/imported/corinth_low.obj-89ceba4ae5be3d46a9c1a7dcb37e8eab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/corinth_low.obj-89ceba4ae5be3d46a9c1a7dcb37e8eab.mesh"]
+
+source_file="res://models/stage/corinth_low.obj"
+dest_files=["res://.godot/imported/corinth_low.obj-89ceba4ae5be3d46a9c1a7dcb37e8eab.mesh", "res://.godot/imported/corinth_low.obj-89ceba4ae5be3d46a9c1a7dcb37e8eab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

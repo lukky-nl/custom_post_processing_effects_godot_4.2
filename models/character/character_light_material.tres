@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" load_steps=3 format=3 uid="uid://cc7xt33lduu5m"]
+
+[ext_resource type="Texture2D" uid="uid://b1wtneqab1ehm" path="res://models/character/character_Paladin_diffuse.png" id="1_ee7gp"]
+[ext_resource type="Texture2D" uid="uid://bqkwxw7n6oss" path="res://models/character/character_Paladin_normal.png" id="2_a2w0j"]
+
+[resource]
+albedo_texture = ExtResource("1_ee7gp")
+normal_enabled = true
+normal_texture = ExtResource("2_a2w0j")
